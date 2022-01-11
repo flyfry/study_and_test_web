@@ -1,3 +1,2 @@
-No contents.
-1st add.
-abc
+This branch is dummy.
+see gh-pages branch
